@@ -7,7 +7,7 @@ The EnsentaRDC-Android SDK contains two frameworks that consume the [EPS Ensenta
 
 Financial institutions and FinTechs will be able to use the Ensenta EZAdmin™ platform and its 150+ unique risk factors to assist with reviewing the captured deposits. The SDK dramatically decreases the amount of development time and allows for an accelerated adoption of the EPS Ensenta API in a robust and modern format to help you get to market quicker. 
 
-For more information, visit [Jack Henry](https://www.jackhenry.com/contact-us/sales?form=payments).
+For more information, visit [Jack Henry](https://qa.api.payments.jackhenry.com/developer/api-cards).
 
 # System Requirements
 
