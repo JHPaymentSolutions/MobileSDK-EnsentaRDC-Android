@@ -1,4 +1,4 @@
-# JackHenryMobileSDK EnsentaRDC-Android
+# JackHenryMobileSDK™ EnsentaRDC-Android
 ![Static Badge](https://img.shields.io/badge/kotlin-1.9.23-blue.svg?logo=kotlin)
 ![Static Badge](https://img.shields.io/badge/Platform-Android-green?logo=kotlin&logoColor=lightpurple)
 ![SPM](https://img.shields.io/badge/GitHubPackages-v1.2.0-brightgreen)
