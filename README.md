@@ -19,6 +19,6 @@ For more information, visit [Jack Henry](https://qa.api.payments.jackhenry.com/d
 | Gradle                    | 8.6     |
 | Kotlin                    | 1.9.23  |
 | JDK                       | 17      |
-| Android min API level     | 26      |
+| Android min API level     | 30      |
 | Android target API level  | 34      |
 | Android compile API level | 34      |
